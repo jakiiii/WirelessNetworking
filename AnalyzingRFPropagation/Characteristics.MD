@@ -1,4 +1,4 @@
-# Characteristics of Frequency, Amplitude, Phase and Wavelength
+# Characteristics of Frequency, Amplitude, Phase and Wavelength, RF Wave
 
 **Frequency:** Frequency is defined as the number of times an event occurs pre unit of time. It is also referred to as temporal frequency, which emphasizes the contrast of spatial frequency and angular frequency.
 
@@ -29,4 +29,24 @@ c 	= Speen of licht
 λ	= lamda is web length
 F	= Frequency
 ```
+
+**Analyzing RF Wave Propagation**
+
+**Changes RF Wave Refraction**
+
+**Changes RF Wave Scattering**
+
+**Changes RF Wave Reflection**
+
+**Changes RF Wave Free Path Loss and Slow Fading**
+
+**Changes RF Wave Line of Sight and the Fresnel Zone**
+
+**Changes RF Wave Concerns for Indoor Environments**
+
+- Absorption: When we deploy in a network are those are really effect indore network. That is Absorption. Because anything going through wall is going to be absorbed and we will get less signal.
+
+- Multipath: Siglan is going to be bounce around that somethign we may be suffering or we may be tacking advantage of depending on what tecknology we used and how much have it we have. Too much multipath is never good.
+
+- Free Path Loss: We have obstacles if we put on access point seeling and way from it and somepoint we have not signal anymore or to be receive a good signal with valuable information that access point.
 
