@@ -4,10 +4,9 @@
 
 **Radio Frequency:** Radio frequency is the oscillation rate of an alternating electric current or voltage or af an magnetic, electrics or electromagnetic field or mechanical system in the freuency range from around 20kHz to around 300 GHz.
 
-![frequency](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images)
 ![lowfrequency](https://raw.githubusercontent.com/jakiiii/WirelessNetworking/master/Images/lowfreq.png)
-![highfrequency](https://raw.githubusercontent.com/jakiiii/WirelessNetworking/master/Images/highfreq.png)
 
+![highfrequency](https://raw.githubusercontent.com/jakiiii/WirelessNetworking/master/Images/highfreq.png)
 
 **Amplitude:** The amplitude of a periodic variable is a measure of its change over a signal period.
 
