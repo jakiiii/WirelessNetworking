@@ -84,3 +84,17 @@ Now what abotu -50 dBm = ? mW
 10 dBm	= 0.00001 mW
 ```
 
+### Effective Isotropic Radiated Power (EIRP)
+
+![EIRP](https://raw.githubusercontent.com/jakiiii/WirelessNetworking/master/Images/eirp.jpg)
+
+**EIRP (dBm) = Tx Power (dBm) - cable loss (dB) + Antenna Gain (dBi)**
+
+Example:
+```
+Tx Power = 20 dBm, loss 3dB, anteena gain = 6 dBi
+EIRP = 20 - 3 + 6 = 23 dBm
+```
+
+### Mastering Basic RF Math
+
